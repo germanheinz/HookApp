@@ -22,3 +22,6 @@ Creamos un custom hook que no es mas que una funcion anonima, con rafc podemos c
 creamos las funciones y devolvemos lo que queremos 
 desde counterwithcustomhook importamos este hook y con desectructuracion extraemos todo lo que necesitamos
 para usarlo en los botones
+
+4- Effect
+Implementamos un effect, que sive principalmente paa estar escuchando una parte especifica de nuestro state o componente que haya cambiado, se puede dejar [] vacio o puede agregarse alguna valor, en caso de que se quiera volver a disparar lo que haya dentro
