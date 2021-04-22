@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { HookApp } from './HookApp';
+import { Counter } from './components/Counter';
+// import { HookApp } from './HookApp';
 
 ReactDOM.render(
-    <HookApp />,
+    <Counter />,
   document.getElementById('root')
 );
